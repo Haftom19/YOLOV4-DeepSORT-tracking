@@ -1,8 +1,5 @@
-![⭐_Multiple_Object_Tracking⭐](https://user-images.githubusercontent.com/81158076/204557899-c91ef9b2-e72e-4aa8-a98c-10b95c6691d8.png)
 
-# People tracking in crowded locations using multiple object Tracking (MOT) ,YOLOV4-DeepSORT-tracking
-
-
+![⭐_People_tracking_in_crowded_locations_using_multiple_object_Tracking⭐](https://user-images.githubusercontent.com/81158076/204558252-92f35b04-3096-4b44-bbb5-9b2f3c5f168e.png)
 
 # <h2> Detection Result video
 
