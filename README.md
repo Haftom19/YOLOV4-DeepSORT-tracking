@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/81158076/204257874-506948b2-57e3-4d12-
   
 <p align="right">
 
-  ![ezgif-4-aeeb506440 (1)](https://user-images.githubusercontent.com/81158076/204807348-196d23a8-64b8-4c0b-845c-d292bc7d1d1f.gif)
+ ![ezgif-4-aeeb506440 (1)](https://user-images.githubusercontent.com/81158076/204807348-196d23a8-64b8-4c0b-845c-d292bc7d1d1f.gif)
 
   
 </p>
