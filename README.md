@@ -6,6 +6,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?authuser=4/]
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?authuser=4/]
 
+<a href="https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?authuser=4#">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+
 ![✔️_Detection-YOLOv4](https://user-images.githubusercontent.com/81158076/204559586-fd8b90f8-3865-432b-8d75-a5b92bc16ee0.png)
 
 ![✔️_Tracking_-DeepSORT (1)](https://user-images.githubusercontent.com/81158076/204559605-d69606b6-c6af-420c-88d4-cfc0ebcf7533.png)
