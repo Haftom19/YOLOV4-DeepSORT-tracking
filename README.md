@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/81158076/204257899-aaed8c45-7ccc-427f-
 https://user-images.githubusercontent.com/81158076/204257874-506948b2-57e3-4d12-b3b1-c63b951e89f4.mp4
 
   
-<p align="center">
+<p align="left">
 
   ![ezgif-4-aeeb506440 (1)](https://user-images.githubusercontent.com/81158076/204807348-196d23a8-64b8-4c0b-845c-d292bc7d1d1f.gif)
 
