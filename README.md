@@ -3,7 +3,7 @@
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?authuser=4]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?authuser=4/]
 
 
 ![✔️_Detection-YOLOv4](https://user-images.githubusercontent.com/81158076/204559586-fd8b90f8-3865-432b-8d75-a5b92bc16ee0.png)
