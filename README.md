@@ -7,6 +7,10 @@
 
 ![✔️_Tracking_-DeepSORT (1)](https://user-images.githubusercontent.com/81158076/204559605-d69606b6-c6af-420c-88d4-cfc0ebcf7533.png)
 
+
+[![open googlecolab](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?authuser=4)
+
+
 # <h2> Detection Result video
 
 https://user-images.githubusercontent.com/81158076/204257899-aaed8c45-7ccc-427f-a0b9-c171f795b3c1.mp4
