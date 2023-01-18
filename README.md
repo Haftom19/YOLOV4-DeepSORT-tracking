@@ -56,7 +56,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Haftom19** - [Your Github](https://github.com/Haftom19)
+* **Hafom Abrha Solomon** - [Haftom19](https://github.com/Haftom19)
 
 ## License
 
