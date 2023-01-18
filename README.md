@@ -26,6 +26,47 @@ What things you need to install the software and how to install them
 
 
 
+### Installation
+
+A step by step series of examples that tell you how to get a development env running
+
+
+
+## Usage
+
+Provide instructions and examples for running the project
+
+
+## Screenshots
+
+![Screenshot of the application](screenshot.png)
+
+## Running the tests
+
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [React](https://reactjs.org/) - JavaScript library for building user interfaces
+* [Node.js](https://nodejs.org/) - JavaScript runtime
+* [Express](https://expressjs.com/) - Web framework for Node.js
+
+## Authors
+
+* **Your Name** - [Your Github](https://github.com/your)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
 
 
 
