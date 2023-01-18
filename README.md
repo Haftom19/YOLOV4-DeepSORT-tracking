@@ -51,7 +51,7 @@ What things you need to install the software and how to install them
 ![⭐_People_tracking_in_crowded_locations_using_multiple_object_Tracking⭐](https://user-images.githubusercontent.com/81158076/204558252-92f35b04-3096-4b44-bbb5-9b2f3c5f168e.png)
 
 YOLO4 training
-<a href="https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?authuser=4#">
+<a href="https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
