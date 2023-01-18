@@ -56,7 +56,7 @@ YOLO4 training
 </a>
 
 YOLOV4-DeepSORT tracking
-<a href="https://colab.research.google.com/drive/1gKViQZSB-ECwkFQbF4VPIaO_kGf-rBge?authuser=6">
+<a href="https://colab.research.google.com/drive/1gKViQZSB-ECwkFQbF4VPIaO_kGf-rBge?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
