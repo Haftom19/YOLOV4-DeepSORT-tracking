@@ -61,7 +61,7 @@ YOLOV4-DeepSORT tracking
 </a>
 
 YOLOv4-tiny training
-<a href="https://colab.research.google.com/drive/1w4V-7RYrDETmNGVjd891x92fPsjldiw1?authuser=3">
+<a href="https://colab.research.google.com/drive/1w4V-7RYrDETmNGVjd891x92fPsjldiw1?usp=share_link">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
