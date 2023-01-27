@@ -50,9 +50,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [React](https://reactjs.org/) - JavaScript library for building user interfaces
-* [Node.js](https://nodejs.org/) - JavaScript runtime
-* [Express](https://expressjs.com/) - Web framework for Node.js
+* [Google colab](https://colab.research.google.com/) - allows you to write and execute Python in your browser
 
 ## Authors
 
@@ -60,7 +58,7 @@ Add additional notes about how to deploy this on a live system
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the WUT license 
 
 ## Acknowledgments
 
