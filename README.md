@@ -18,35 +18,13 @@ This project is focused on Multiple Object Tracking (MOT) which is an important 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 
 
 
-### Installation
-
-A step by step series of examples that tell you how to get a development env running
-
-
-
-## Usage
-
-Provide instructions and examples for running the project
-
-
-## Screenshots
-
-![Screenshot of the application](screenshot.png)
-
-## Running the tests
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
