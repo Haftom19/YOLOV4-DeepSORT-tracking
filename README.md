@@ -3,21 +3,7 @@
 
 This project is focused on Multiple Object Tracking (MOT) which is an important topic in the field of computer vision. It can be used in various advanced technology applications such as autonomous driving systems, traffic monitoring, and analyzing people in different fields such as sports players. The project applied an MOT algorithm for tracking people in crowded areas with the help of a detection system. The model uses the tracking-by-detection (DBT) strategy and uses the YOLOv4 algorithm for detection and the DeepSORT algorithm for tracking. A Kalman filter is used to predict the locations of existing tracks in the current frame from the previous frame.The YOLOv4 detection algorithm is used for evaluation on the MOT20 dataset and achieved a 97.7% mAP value for the detection system.
 
-`<frame>`, `<id>`, `<bbleft>`, `<bbtop>`, `<width>`, `<height>`, `<conf>`, `<x>`, `<y>`, `<z>`
 
-
-| Field   | Description    |
-| ------- | -------------- |
-| `<frame>`  | Description of frame field |
-| `<id>`     | Description of id field    |
-| `<bbleft>` | Description of bbleft field|
-| `<bbtop>`  | Description of bbtop field |
-| `<width>`  | Description of width field |
-| `<height>` | Description of height field|
-| `<conf>`   | Description of conf field  |
-| `<x>`      | Description of x field     |
-| `<y>`      | Description of y field     |
-| `<z>`      | Description of z field     |
 
 
 ## Table of contents
@@ -40,6 +26,38 @@ outlining how the dataset was organized for training the detection system. Subse
 MOTChallenge, offering meticulously annotated datasets and well-defined metrics for evaluating tracking algorithms and pedestrian detectors, served as chosen dataset for training my model. 
 Trained a YOLOv4 and YOLOv4-tiny model with the Darknet-53 backbone specifically on MOT20 training sequences. Emphasized aligning the model's data format with MOT20 for effective learning. 
 The labeling process highlighted key features crucial for pattern analysis, enhancing target prediction.
+
+
+The ground truth file of MOT20 benchmark has the file format as shown below.
+
+`<frame>`, `<id>`, `<bbleft>`, `<bbtop>`, `<width>`, `<height>`, `<conf>`, `<x>`, `<y>`, `<z>`
+
+
+| Field   | Description    |
+| ------- | -------------- |
+| `<frame>`  | Description of frame field |
+| `<id>`     | Description of id field    |
+| `<bbleft>` | Description of bbleft field|
+| `<bbtop>`  | Description of bbtop field |
+| `<width>`  | Description of width field |
+| `<height>` | Description of height field|
+| `<conf>`   | Description of conf field  |
+| `<x>`      | Description of x field     |
+| `<y>`      | Description of y field     |
+| `<z>`      | Description of z field     |
+
+
+The YOLO format consists of object class, object coordinates,
+height, and width as the following format
+<object-class>, <x>, <y>, <width>, <height>
+
+
+
+
+
+
+
+
 ### Prerequisites
 
 
