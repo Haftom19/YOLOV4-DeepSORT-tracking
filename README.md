@@ -1,4 +1,6 @@
 
+
+![⭐_People_tracking_in_crowded_locations_using_multiple_object_Tracking⭐](https://user-images.githubusercontent.com/81158076/204558252-92f35b04-3096-4b44-bbb5-9b2f3c5f168e.png)
 # People Tracking in crowded location using Multiple Object Tracking (MOT)
 
 This project is focused on Multiple Object Tracking (MOT) which is an important topic in the field of computer vision. It can be used in various advanced technology applications such as autonomous driving systems, traffic monitoring, and analyzing people in different fields such as sports players. The project applied an MOT algorithm for tracking people in crowded areas with the help of a detection system. The model uses the tracking-by-detection (DBT) strategy and uses the YOLOv4 algorithm for detection and the DeepSORT algorithm for tracking. A Kalman filter is used to predict the locations of existing tracks in the current frame from the previous frame.The YOLOv4 detection algorithm is used for evaluation on the MOT20 dataset and achieved a 97.7% mAP value for the detection system.
@@ -72,6 +74,28 @@ our implementation relies on the current version of Darknet, modified by AlexAB 
 
 * [Google colab](https://colab.research.google.com/) - allows you to write and execute Python in your browser
 
+
+
+YOLO4 training
+<a href="https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+YOLOV4-DeepSORT tracking
+<a href="https://colab.research.google.com/drive/1gKViQZSB-ECwkFQbF4VPIaO_kGf-rBge?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+YOLOv4-tiny training
+<a href="https://colab.research.google.com/drive/1w4V-7RYrDETmNGVjd891x92fPsjldiw1?usp=share_link">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+![✔️_Detection-YOLOv4](https://user-images.githubusercontent.com/81158076/204559586-fd8b90f8-3865-432b-8d75-a5b92bc16ee0.png)
+
+![✔️_Tracking_-DeepSORT (1)](https://user-images.githubusercontent.com/81158076/204559605-d69606b6-c6af-420c-88d4-cfc0ebcf7533.png)
+
 ## Authors
 
 * **Hafom Abrha Solomon** - [Haftom19](https://github.com/Haftom19)
@@ -107,27 +131,7 @@ This project is licensed under the WUT license
 
 
 
-![⭐_People_tracking_in_crowded_locations_using_multiple_object_Tracking⭐](https://user-images.githubusercontent.com/81158076/204558252-92f35b04-3096-4b44-bbb5-9b2f3c5f168e.png)
 
-YOLO4 training
-<a href="https://colab.research.google.com/drive/1NNCwbsB_yZbIxn03OWAIpG_YuubEqicd?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-YOLOV4-DeepSORT tracking
-<a href="https://colab.research.google.com/drive/1gKViQZSB-ECwkFQbF4VPIaO_kGf-rBge?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-YOLOv4-tiny training
-<a href="https://colab.research.google.com/drive/1w4V-7RYrDETmNGVjd891x92fPsjldiw1?usp=share_link">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-
-![✔️_Detection-YOLOv4](https://user-images.githubusercontent.com/81158076/204559586-fd8b90f8-3865-432b-8d75-a5b92bc16ee0.png)
-
-![✔️_Tracking_-DeepSORT (1)](https://user-images.githubusercontent.com/81158076/204559605-d69606b6-c6af-420c-88d4-cfc0ebcf7533.png)
 
 # <h2> Detection Result video
 
