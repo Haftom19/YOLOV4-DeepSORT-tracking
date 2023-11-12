@@ -47,6 +47,7 @@ The ground truth file of MOT20 benchmark has the file format as shown below.
 
 
 The YOLO format consists of object class, object coordinates,height, and width as the following format
+
 `<object-class>`, `<x>`, `<y>`, `<width>`, `<height>`
 
 
