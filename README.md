@@ -17,9 +17,12 @@ This project is focused on Multiple Object Tracking (MOT) which is an important 
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
+The methods employed for object detection and tracking involved various techniques, including different conducted methods and experiments on training datasets. The initial step focused on introducing the dataset section, 
+outlining how the dataset was organized for training the detection system. Subsequently, implementations, evaluations of metrics, and discussions were conducted to assess the effectiveness of the employed methods.
 
-
-
+MOTChallenge, offering meticulously annotated datasets and well-defined metrics for evaluating tracking algorithms and pedestrian detectors, served as chosen dataset for training my model. 
+Trained a YOLOv4 and YOLOv4-tiny model with the Darknet-53 backbone specifically on MOT20 training sequences. Emphasized aligning the model's data format with MOT20 for effective learning. 
+The labeling process highlighted key features crucial for pattern analysis, enhancing target prediction.
 ### Prerequisites
 
 
