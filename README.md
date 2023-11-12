@@ -50,7 +50,7 @@ The YOLO format consists of object class, object coordinates,height, and width a
 
 `<object-class>`, `<x>`, `<y>`, `<width>`, `<height>`
 
-Joseph Redmon initially authored Darknet; however, his "pjreddie" repository has been abandoned for several years and is not recommended for use, lacking substantial updates since 2016. Instead, 
+Joseph Redmon (https://github.com/pjreddie) initially authored Darknet; however, his "pjreddie" repository has been abandoned for several years and is not recommended for use, lacking substantial updates since 2016. Instead, 
 our implementation relies on the current version of Darknet, modified by AlexAB (https://github.com/AlexeyAB/darknet) . The following outlines the procedures utilized in the training process for both YOLOv4 and YOLOv4-tiny models
 
 ![Alt Text](https://github.com/Haftom19/YOLOV4-DeepSORT-tracking/blob/main/flow%20of%20training.png)
