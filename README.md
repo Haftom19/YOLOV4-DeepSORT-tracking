@@ -3,6 +3,9 @@
 
 This project is focused on Multiple Object Tracking (MOT) which is an important topic in the field of computer vision. It can be used in various advanced technology applications such as autonomous driving systems, traffic monitoring, and analyzing people in different fields such as sports players. The project applied an MOT algorithm for tracking people in crowded areas with the help of a detection system. The model uses the tracking-by-detection (DBT) strategy and uses the YOLOv4 algorithm for detection and the DeepSORT algorithm for tracking. A Kalman filter is used to predict the locations of existing tracks in the current frame from the previous frame.The YOLOv4 detection algorithm is used for evaluation on the MOT20 dataset and achieved a 97.7% mAP value for the detection system.
 
+`<frame>`, `<id>`, `<bbleft>`, `<bbtop>`, `<width>`, `<height>`, `<conf>`, `<x>`, `<y>`, `<z>`
+
+
 | Field   | Description    |
 | ------- | -------------- |
 | `<frame>`  | Description of frame field |
