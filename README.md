@@ -72,8 +72,12 @@ our implementation relies on the current version of Darknet, modified by AlexAB 
 
 ## Built With
 
-* [Google colab](https://colab.research.google.com/) - allows you to write and execute Python in your browser
-
+* [Google colab](https://colab.research.google.com/) -
+* Google Colab, short for Colaboratory, is a free, cloud-based service provided by Google that allows you to write and execute Python code in a Jupyter Notebook-like environment.
+*  It's a popular choice for data science, machine learning, and deep learning tasks.
+*  Colab comes with many pre-installed libraries commonly used in data science and machine learning, such as TensorFlow, PyTorch, Keras, OpenCV, and more
+*  Google Colab provides free access to Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs), which can significantly accelerate computations, especially for machine learning tasks.
+  
 
 
 YOLO4 training
