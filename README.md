@@ -27,7 +27,6 @@ MOTChallenge, offering meticulously annotated datasets and well-defined metrics 
 Trained a YOLOv4 and YOLOv4-tiny model with the Darknet-53 backbone specifically on MOT20 training sequences. Emphasized aligning the model's data format with MOT20 for effective learning. 
 The labeling process highlighted key features crucial for pattern analysis, enhancing target prediction.
 
-
 The ground truth file of MOT20 benchmark has the file format as shown below.
 
 `<frame>`, `<id>`, `<bbleft>`, `<bbtop>`, `<width>`, `<height>`, `<conf>`, `<x>`, `<y>`, `<z>`
@@ -35,21 +34,21 @@ The ground truth file of MOT20 benchmark has the file format as shown below.
 
 | Field   | Description    |
 | ------- | -------------- |
-| `<frame>`  | Description of frame field |
-| `<id>`     | Description of id field    |
-| `<bbleft>` | Description of bbleft field|
-| `<bbtop>`  | Description of bbtop field |
-| `<width>`  | Description of width field |
-| `<height>` | Description of height field|
-| `<conf>`   | Description of conf field  |
-| `<x>`      | Description of x field     |
-| `<y>`      | Description of y field     |
-| `<z>`      | Description of z field     |
+| `<frame>`  | frame number|
+| `<id>`     | Identity number    |
+| `<bbleft>` | Bounding box left|
+| `<bbtop>`  | Bounding box right |
+| `<width>`  | Bounding box width |
+| `<height>` | Bounding box heightd|
+| `<conf>`   | Confidence score  |
+| `<x>`      | class    |
+| `<y>`      | visibility   |
+| `<z>`      |     |
 
 
-The YOLO format consists of object class, object coordinates,
-height, and width as the following format
-<object-class>, <x>, <y>, <width>, <height>
+The YOLO format consists of object class, object coordinates,height, and width as the following format
+`<object-class>`, `<x>`, `<y>`, `<width>`, `<height>`
+
 
 
 
